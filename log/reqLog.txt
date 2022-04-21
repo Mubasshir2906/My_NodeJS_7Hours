@@ -1,0 +1,68 @@
+
+19-04-2022 00:27:59 	dea89aa7-29c0-4e53-abb9-3301a0686fff	/	 GET
+19-04-2022 00:28:00 	06fb1079-a244-4836-a9f8-f83deda02c9f	/img/welcome.png	 GET
+20-04-2022 23:00:11 	29d47a14-f4c4-4172-bb04-b4eb5044e754	GET	/new-page
+20-04-2022 23:00:11 	9ce4fe57-56e9-4757-ba77-009298178a3d	GET	/css/style.css
+20-04-2022 23:04:16 	4c93a1e4-0592-412a-aec6-eb35de4bc5f9	GET	/new-page
+20-04-2022 23:04:16 	df66b305-d6c1-4c18-afec-d2563f73b589	GET	/css/style.css
+20-04-2022 23:04:25 	b2455777-3219-4bb4-bffc-655f684ee65f	GET	/new-page.html
+20-04-2022 23:04:26 	67de2512-0cbe-4123-8565-8cc4fb17b419	GET	/css/style.css
+20-04-2022 23:07:12 	89280c0f-93fc-40c9-9e01-c06fbc3b120e	GET	undefined	/new-page.html
+20-04-2022 23:07:12 	7dcea778-153f-4e0f-ac35-2cf7647e4050	GET	undefined	/css/style.css
+20-04-2022 23:07:18 	83ca1f40-99f4-4b80-96d8-8d61da898132	GET	undefined	/new-page.html
+20-04-2022 23:07:18 	4e1a0300-6388-4949-922e-d58682380f9f	GET	undefined	/css/style.css
+20-04-2022 23:12:06 	5552b30c-4d0e-4898-a020-f47007614262	GET	undefined	/new-page.html
+20-04-2022 23:12:07 	d38a2cf5-7a2b-4cf5-ba3b-b56a3169c3f2	GET	undefined	/css/style.css
+20-04-2022 23:12:14 	a6049357-d734-48af-b462-b5d84d8b6787	GET	undefined	/new-page.html
+20-04-2022 23:12:14 	d175655d-fada-4f45-a657-dc85c351d2b5	GET	undefined	/css/style.css
+21-04-2022 16:12:07 	27b0e7eb-bac7-4414-819f-6ca4c99a6d99	GET	undefined	/new-page.html
+21-04-2022 16:12:07 	ed831170-9c60-4a10-a72d-6f9b2527e0d7	GET	undefined	/css/style.css
+21-04-2022 16:21:28 	3d2d5996-dcb3-4cea-ba2c-75c4425425f3	GET	undefined	/
+21-04-2022 16:21:29 	70b06f4c-3d56-4c88-80c9-eb2c7dc10b44	GET	undefined	/css/style.css
+21-04-2022 16:21:29 	a2f8db01-4db7-4984-8072-89508de40a55	GET	undefined	/img/welcome.png
+21-04-2022 16:21:29 	1112550f-f60a-43c0-842b-97f6b297f96a	GET	undefined	/favicon.ico
+21-04-2022 16:22:19 	0f9d3148-4a73-4c8e-89c6-bff3d0567912	GET	https://www.google.com	/
+21-04-2022 16:24:27 	218118ee-b943-44cd-8704-651d95b28218	GET	https://www.google.com	/
+21-04-2022 16:36:06 	34da0dd4-26c9-4dd2-a2c2-4d0a06388400	GET	https://www.google.com	/
+21-04-2022 16:36:30 	683ee45c-e46c-488b-980f-35555c948302	GET	https://www.google.com	/
+21-04-2022 16:37:27 	8db70af6-a37a-4a43-aec5-8e126c5bd440	GET	https://www.google.com	/
+21-04-2022 16:41:40 	987dfcc7-56ed-4acf-b838-40aaee81e091	GET	undefined	/
+21-04-2022 16:42:03 	1007a632-fe6b-4dfd-a8a1-f4c64ba1529b	GET	undefined	/
+21-04-2022 16:42:03 	fa874f5b-f26f-4aad-9714-762fa0d75464	GET	undefined	/css/style.css
+21-04-2022 16:42:03 	6cdf8cf6-a0d9-42ff-91a8-4febfe96f046	GET	undefined	/img/welcome.png
+21-04-2022 16:42:03 	7e7273f7-2d9a-45e2-bf16-57b51e602e3a	GET	undefined	/
+21-04-2022 16:42:03 	300db0c9-2e1e-406d-b1a4-c48e11049217	GET	undefined	/css/style.css
+21-04-2022 16:42:03 	d104c560-e656-4d46-b94a-d74a7be4fa70	GET	undefined	/img/welcome.png
+21-04-2022 16:54:14 	ad67b194-e0c3-44d6-bb98-5ec01b8d579d	GET	https://www.google.com	/
+21-04-2022 16:54:33 	a6f07b5b-61a7-400f-b0fa-c5009dfc8b90	GET	https://www.google.com	/
+21-04-2022 16:55:22 	160daeb8-cf70-47a7-ad17-c7d0b3b98726	GET	https://www.google.com	/
+21-04-2022 17:27:19 	7aec8a99-4f33-4ec8-bfde-ed38fd247946	GET	undefined	/subdir
+21-04-2022 17:27:19 	4d966f21-fbe7-4eaa-b1b1-80b2ac9fdb5b	GET	undefined	/css/style.css
+21-04-2022 17:27:27 	221861a1-ce78-4dba-9e3d-08c40d538431	GET	undefined	/subdir/test
+21-04-2022 17:27:27 	df65601f-dd42-4aba-9ba0-fe2ec8168bf3	GET	undefined	/subdir/css/style.css
+21-04-2022 17:46:45 	37dcce72-bba8-4855-81c4-98819fa01bbe	GET	undefined	/subdir/test
+21-04-2022 17:46:45 	2bee4850-22eb-42b7-98cd-f99f78ee46db	GET	undefined	/subdir/css/style.css
+21-04-2022 17:47:41 	93e1dbe4-daab-46c9-8958-67ccddc1d8fb	GET	undefined	/subdir/dave
+21-04-2022 17:47:41 	be6842d9-755b-422b-9bb8-945d0b6c8a9f	GET	undefined	/subdir/css/style.css
+21-04-2022 17:47:41 	0dbcaa04-8031-4767-9580-0718b40bc91d	GET	undefined	/img/error404.png
+21-04-2022 17:59:42 	496a04f8-3d86-4a16-83a9-a4edf34dd17c	GET	undefined	/
+21-04-2022 18:00:19 	0b660fe0-811f-46d8-8ec8-cd6a2614d1ea	GET	undefined	/
+21-04-2022 18:00:19 	cdf7162a-2e6d-49f0-8702-29082074614a	GET	undefined	/css/style.css
+21-04-2022 18:00:19 	c9e57668-46c3-4f40-8054-2bc7568c426b	GET	undefined	/img/welcome.png
+21-04-2022 18:01:51 	b3959ae8-f910-4e90-883b-6d6450c62fbe	GET	undefined	/new-page
+21-04-2022 18:01:51 	a8c0d346-1e40-404b-9c29-9d6104ec5e4a	GET	undefined	/css/style.css
+21-04-2022 18:01:58 	18a4da33-b2cf-4aca-8a3c-5bf636dc2c70	GET	undefined	/old-page
+21-04-2022 18:01:58 	347f417c-cd77-4977-a9e0-374caf436dcd	GET	undefined	/new-page.html
+21-04-2022 18:01:58 	b2a1ce28-d5e8-4d84-9fe2-ca3627efba03	GET	undefined	/css/style.css
+21-04-2022 20:19:48 	5d2e5c2d-9bb9-4e03-83f1-63ec49895081	GET	undefined	/employees
+21-04-2022 20:20:03 	56d73244-9734-4dea-8962-4d64a55625af	GET	undefined	/employees/1
+21-04-2022 20:20:09 	da9b83b0-0c27-456e-a78f-ff49ada8ea1b	GET	undefined	/employees/2
+21-04-2022 20:21:47 	5ab94569-2c36-4998-b4bd-c390707bdea3	POST	undefined	/employees/
+21-04-2022 20:21:57 	301bf043-e30b-457a-8bfd-7905bc623be3	PUT	undefined	/employees/
+21-04-2022 20:22:02 	1436f4e9-6b06-4b19-8ae3-ce2f4f6838d5	DELETE	undefined	/employees/
+21-04-2022 20:22:18 	9ee9cd55-b3e1-4d9d-9f7c-eacc82e4e575	DELETE	undefined	/employees/
+21-04-2022 20:24:22 	a380809e-7ec5-4a5e-8432-1b93dca6547e	GET	undefined	/employees
+21-04-2022 23:12:33 	3250ed61-e0cc-40e5-aac9-8ce4bfac4feb	GET	undefined	/employees
+21-04-2022 23:16:43 	72f63f88-7fef-44c6-8b5c-ed3c25f24c88	GET	undefined	/employees
+21-04-2022 23:16:58 	bb8cc8a1-3de5-4f86-8130-28f09290d55f	GET	undefined	/employees/1
+21-04-2022 23:17:11 	c368d1a6-9456-42ab-a88c-8e2ebb094f72	POST	undefined	/employees/

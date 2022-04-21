@@ -1,0 +1,3 @@
+
+21-04-2022 16:54:33 	fb236c6e-d7ea-44fb-8739-4c706c44a88d	Error	Not allowed
+21-04-2022 16:55:22 	35df3870-5fe5-49a1-ac9e-158d12a06467	Error	Not allowed by CORS

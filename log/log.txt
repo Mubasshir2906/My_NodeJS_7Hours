@@ -1,0 +1,2 @@
+15-04-2022 23:22:21 	8caedca9-2a25-4ea9-b5ee-71c1e137a604	Log event emitted
+15-04-2022 23:22:44 	1edf1d60-2fa5-48e8-82b1-54cbab73b17a	Log event emitted
