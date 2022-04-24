@@ -13,7 +13,7 @@ const fsPromises = require('fs').promises
 const deleteUser = async (req,res)=>{
     const username = req.body.user;
 
-    if(!username) return res.status(400).json({ 'message': 'Usernot found.' });
+    if(!username) return res.status(400).json({ 'message': 'User not found.' });
 
     const usersAfterDelete = data.users.filter(person => person.user === username)
     try{

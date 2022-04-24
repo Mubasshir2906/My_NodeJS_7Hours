@@ -29,11 +29,12 @@ app.use('^/',require('./routes/rootRoute'))
 app.use('/subdir',require('./routes/subdirRoute'))
 app.use('/employees',require('./routes/api/employees'))
 app.use('/register',require('./routes/registerRoute'))
+app.use('/auth',require('./routes/authRoute'))
 app.use('/delete',require('./routes/registerRoute'))
 
-app.get('/*',(req, res)=>{
-    res.status(404).sendFile(path.join(__dirname,'views','404.html'))
-})
+// app.get('/*',(req, res)=>{
+//     res.status(404).sendFile(path.join(__dirname,'views','404.html'))
+// })
 
 //for all other type of invalid requests
 app.all('*',(req,res)=>{

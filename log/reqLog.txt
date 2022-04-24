@@ -91,3 +91,10 @@
 23-04-2022 14:35:13 	c97abec5-2e7a-472f-9934-9dbf96bf0927	POST	undefined	/register
 23-04-2022 14:38:20 	93f1cefa-4e34-4784-b5c5-684e891b6805	POST	undefined	/register
 23-04-2022 14:56:13 	b046ffce-ba73-4aad-89d6-14e7bb30e513	DELETE	undefined	/delete
+24-04-2022 15:45:01 	b8b7545e-37e6-4f6c-bb00-9195b7b33119	POST	undefined	/register
+24-04-2022 15:45:48 	f7bb3dba-491f-4779-9b7a-b9c6c80248c1	GET	undefined	/auth
+24-04-2022 15:47:44 	26834f04-9c11-4bc7-874d-06cf41f9f8ea	GET	undefined	/auth
+24-04-2022 15:52:18 	29bb533e-7d44-42ba-a001-b3fac2400a28	GET	undefined	/auth
+24-04-2022 15:53:12 	9847e6b8-d82b-4aaa-b127-456677179d4a	POST	undefined	/auth
+24-04-2022 15:53:29 	df3f03ac-3c47-4f3c-b630-cca03a0704ae	POST	undefined	/register
+24-04-2022 15:53:39 	5b4a6d6b-2f9e-486e-b092-26bae4e1bc07	POST	undefined	/auth
