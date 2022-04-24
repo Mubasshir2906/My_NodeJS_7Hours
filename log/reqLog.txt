@@ -83,3 +83,11 @@
 22-04-2022 18:05:12 	e78c9018-ae22-4884-ad50-92031ba1a366	DELETE	undefined	/employees/
 22-04-2022 18:05:17 	ad753714-0fcd-4dcc-b47e-103f71eed489	DELETE	undefined	/employees/
 22-04-2022 18:05:25 	fbfbb88d-7c91-4276-a49f-eba172354aa2	DELETE	undefined	/employees/
+23-04-2022 13:35:19 	14e83e63-f47a-402d-aab1-cdf52f78b2df	POST	undefined	/register
+23-04-2022 13:36:37 	25c7a32d-b45d-4375-bcbe-76345b5d30c1	POST	undefined	/register
+23-04-2022 13:36:51 	a1e5250e-ab73-4c9d-8456-64f3b3d5b020	POST	undefined	/register
+23-04-2022 14:32:13 	a0cb5c4d-6940-4794-b877-ddc8d1eaaa05	POST	undefined	/register
+23-04-2022 14:34:59 	3d23a2fc-d0c9-4081-88ef-994f4ed9ccce	POST	undefined	/register
+23-04-2022 14:35:13 	c97abec5-2e7a-472f-9934-9dbf96bf0927	POST	undefined	/register
+23-04-2022 14:38:20 	93f1cefa-4e34-4784-b5c5-684e891b6805	POST	undefined	/register
+23-04-2022 14:56:13 	b046ffce-ba73-4aad-89d6-14e7bb30e513	DELETE	undefined	/delete

@@ -5,3 +5,5 @@
 22-04-2022 17:44:56 	dde9cbf6-2813-402d-a016-72c91e999049	SyntaxError	Unexpected number in JSON at position 51
 22-04-2022 17:48:36 	d3d0bd5f-6577-4dea-b705-d4e9c8151e3f	SyntaxError	Unexpected number in JSON at position 51
 22-04-2022 18:05:17 	fbfcecd6-eb11-4c54-a88b-8bc96056a226	SyntaxError	Unexpected number in JSON at position 7
+23-04-2022 13:35:19 	f9cabbb0-01bf-4c00-bd7b-5d86a3e22321	SyntaxError	Unexpected token I in JSON at position 32
+23-04-2022 13:36:37 	59606e22-6ae6-447c-b73a-71985b03edd2	SyntaxError	Unexpected token I in JSON at position 27
