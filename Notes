@@ -1,0 +1,6 @@
+1. JWT
+    1. Install cookies-parser, jsonwebtoken and dotenv packages
+    2. create .env file on root level
+    3. Inside .env file, create 2 encrypted keys ACCESS_TOKEN_SECRET, REFRESH_TOKEN_SECRET
+        1. Use REPL and generate key with 'crypto' inbuild module
+    4. 

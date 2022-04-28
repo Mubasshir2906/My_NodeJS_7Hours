@@ -1,3 +1,8 @@
+const jwt = require('jsonwebtoken')
+const bcrypt = require('bcrypt')
+const fsPromises = require('fs').promises
+const path = require('path')
+
 const data={
     users: require('./../model/users.json'),
     setUsers: function(data){
@@ -5,7 +10,6 @@ const data={
     }
 }
 
-const bcrypt = require('bcrypt')
 
 const authUser = async (req,res)=>{
     const {user,pwd} = req.body;
@@ -19,9 +23,33 @@ const authUser = async (req,res)=>{
         }
 
         const matchPwd = await bcrypt.compare(pwd, userFound.password)
-        if(!matchPwd) return res.status(401).send({'error':'password not matched'})
+        if(matchPwd){
+            res.json({'success':'User logged in'})
+            const accessToken = jwt.sign(
+                {'username':userFound.username},
+                process.env.ACCESS_TOKEN_SECRET,
+                { expiresIn:'30s'}
+            );
+            const refreshToken = jwt.sign(
+                {'username':userFound.username},
+                process.env.REFRESH_TOKEN_SECRET,
+                { expiresIn:'30s'}
+            );
 
-        res.json({'success':'User logged in'})
+            const otherUsers = data.users.filter(person => person.username!== userFound.username);
+            const currentUser = {...userFound,refreshToken}
+            data.setUsers([...otherUsers,currentUser])
+            await fsPromises.writeFile(path.join(__dirname,'..','model','users.json'), JSON.stringify(data.users));
+
+            res.cookies('jwt',refreshToken,{ httpOnly:true, maxAge: 24 * 60 * 60 * 1000})
+            res.json(accessToken)
+            
+
+        }
+        
+        else return res.status(401).send({'error':'password not matched'})
+
+        
 
 }
 
