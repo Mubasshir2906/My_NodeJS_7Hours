@@ -98,3 +98,10 @@
 24-04-2022 15:53:12 	9847e6b8-d82b-4aaa-b127-456677179d4a	POST	undefined	/auth
 24-04-2022 15:53:29 	df3f03ac-3c47-4f3c-b630-cca03a0704ae	POST	undefined	/register
 24-04-2022 15:53:39 	5b4a6d6b-2f9e-486e-b092-26bae4e1bc07	POST	undefined	/auth
+28-04-2022 17:48:13 	c44c6fff-edaf-43bd-abcb-6e9614b97b27	POST	undefined	/auth
+28-04-2022 17:57:37 	17e98233-2d3b-43ce-a3a3-14851e6e333f	POST	undefined	/auth
+28-04-2022 19:59:47 	bac7623f-cd26-4721-aeef-68e7ace33e05	POST	undefined	/auth
+28-04-2022 20:05:58 	937b702f-d9c8-46a9-aa8d-7930ecd39b58	POST	undefined	/auth
+28-04-2022 20:06:41 	933af8b8-096d-4a8e-96ca-8b014051260e	POST	undefined	/auth
+28-04-2022 20:07:11 	c7b0b565-64c2-411b-9b06-a94ce0d44b5d	GET	undefined	/employees
+28-04-2022 22:08:18 	6f2b51b6-dcdf-489e-b3cf-86affe357cb8	POST	undefined	/register
